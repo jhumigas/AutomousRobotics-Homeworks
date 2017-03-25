@@ -1,0 +1,11 @@
+<launch>
+
+  <node respawn="true" pkg="joy" type="joy_node" name="pionner_joy">     
+      <param name="dev" type="string" value="/dev/input/js0" />     
+      <param name="deadzone" value="0.12" />  
+  </node>
+  <node pkg="face_detect_base" type="rosfacedetect.py" name="face_detect" output="screen">
+      <remap from="/face_detect/image" to="/vrep/visionSensor"/>
+  </node>
+
+</launch>
