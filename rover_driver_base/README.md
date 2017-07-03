@@ -22,9 +22,9 @@ The rover cannot turn 	effectively on itself with that configuration. As matter 
 Illustrations
 
 Wheels grouped by pair
-![Grouped wheels](https://gitlab.centralesupelec.fr/mugisha_dav/rover_driver_base/raw/bc6974fcfe8def8c173de7cc2841bb1a5523276a/snapshots/rover_turn_conf_3_wheels.png)
+![Grouped wheels](./snapshots/rover_turn_conf_3_wheels.png)
 Wheels not grouped
-![Decoupled wheels](https://gitlab.centralesupelec.fr/mugisha_dav/rover_driver_base/raw/bc6974fcfe8def8c173de7cc2841bb1a5523276a/snapshots/rover_driver_6_wheel_config.png)
+![Decoupled wheels](./snapshots/rover_driver_6_wheel_config.png)
 
 
 
