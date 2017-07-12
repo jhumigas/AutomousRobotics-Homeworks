@@ -8,10 +8,10 @@ In order to implement the studies methods, we used [ROS](http://www.ros.org/), a
 ## Content
 There are five folders in these repositories regarding different topics:
 
-* awesome-joystick: A small warm with ROS to understand the logic behind ROS.
-* collision_avoidance: Automatic control of the velocity of a vehicle when it is encountering obstacle
+* awesome-joystick: A small warm-up to understand the logic behind ROS.
+* collision_avoidance: Automatic control of the velocity of a vehicle when it is encountering obstacles
 * face_detect: Using custom messages, playing with datastream to perform face detection
-* rover_driver_base: 6 wheeled vehicles kinematics
+* rover_driver_base: 6 wheeled-vehicle kinematics
 * floor_nav: Scheduling task for a little vehicle (this one is not finished)
 
 
